@@ -23,19 +23,19 @@ if __name__ == "__main__":
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+| Time: O(n)                          |
 
 3. What is the space complexity of the above script?
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+| Space: O(1)                          |
 
 4. Is this a computationally or data-intensive task?
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+| Comp                          |
 
 > [!TIP]
 >
@@ -53,7 +53,7 @@ if __name__ == "__main__":
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+|  O(1)                         |
 
 6. What is the time complexity of the following code?
 
@@ -69,7 +69,7 @@ if __name__ == "__main__":
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+| O(1)                          |
 
 7. What is the time complexity of the following code?
 
@@ -87,13 +87,13 @@ if __name__ == "__main__":
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+|  O(n)                         |
 
 8. Is this a computationally or data-intensive task?
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+|Comp                           |
 
 9. What is the time complexity of the following code?
 
@@ -117,7 +117,7 @@ if __name__ == "__main__":
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+| O(n)                          |
 
 > [!IMPORTANT]
 >
@@ -127,13 +127,13 @@ if __name__ == "__main__":
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+|  O(1)                         |
 
 11. Is this a computationally or data-intensive task?
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+| Data                        |
 
 12. Compare the following scripts; which one do you prefer and why?
 
@@ -168,12 +168,12 @@ if __name__ == "__main__":
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+|  Reverse2                         |
 
 12. What are the time and space complexities for reverse1 and reverse2?
 
 | Provide your answer here. |
 | ------------------------- |
-| `reverse1`:               |
-| `reverse2`:               |
+| `reverse1`: O(n), O(n)              |
+| `reverse2`: O(n), O(1)              |
 
